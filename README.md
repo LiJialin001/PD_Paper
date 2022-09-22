@@ -26,6 +26,7 @@ Computerized spiral analysis (CSA)
 - Speed mean
 - Tightness：这个不知道咋来的
 - Overall average of widths、Width variation：跟压力有关，线性？？
+- DoS：以上参数的非线性组合
 
 #### 启发
 
